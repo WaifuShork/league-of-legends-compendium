@@ -182,112 +182,168 @@
 - **Builds Into:** [[Legendary Items#Abyssal Mask|Abyssal Mask]], [[Legendary Items#Force of Nature|Force of Nature]], [[Legendary Items#Jak'Sho, The Protean|Jak'Sho, The Protean]], [[Legendary Items#Kaenic Rookern|Kaenic Rookern]], [[Legendary Items#Wit's End|Wit's End]]
 - **Menu:** [[Fighter]], [[Tank]], [[Support]]
 # Noonquiver ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Noonquiver_item.png/40px-Noonquiver_item.png?e4a41)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15 [[Attack Damage]], +20% [[Critical Strike Chance]]
+- **Recipe:** [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + [[Basic Items#Cloak of Agility ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloak_of_Agility_item.png/20px-Cloak_of_Agility_item.png?05126)|Cloak of Agility]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}350=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1300=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}910=~
+- **Builds Into:** [[Legendary Items#Hexoptics C44|Hexoptics C44]], [[Legendary Items#Immortal Shieldbow|Immortal Shieldbow]], [[Legendary Items#Lord Dominik's Regards|Lord Dominik's Regards]]
+- **Menu:** [[Marksman]]
 # Oblivion Orb ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Oblivion_Orb_item.png/40px-Oblivion_Orb_item.png?229ab)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +25 [[Ability Power]]
+- **Passive - UNIQUE: ~={yellow}GRIEVOUS WOUNDS=~:** Dealing ~={blue}magic damage=~ to enemy champions inflicts them with [[Grevious Wounds]] for 3 seconds.
+- **Recipe:** [[Basic Items#Amplifying Tome ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Amplifying_Tome_item.png/20px-Amplifying_Tome_item.png?8541d)|Amplifying Tome]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}400=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}800=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}560=~
+- **Builds Into:** [[Legendary Items#Morellonomicon|Morellonomicon]]
+- **Menu:** [[Mage]], [[Support]]
 # Phage ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Phage_item.png/40px-Phage_item.png?b5b13)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15 [[Attack Damage]], +200 [[Health]]
+- **Passive - UNIQUE: ~={yellow}RAGE=~:** Basic attacks [[on-hit]] grant ~={green}(20 Melee / 10 Ranged) **bonus** movement speed=~ for 2 seconds
+- **Reciple:** [[Basic Items#Ruby Crystal ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Ruby_Crystal_item.png/20px-Ruby_Crystal_item.png?bf858)|Ruby Crystal]] + [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}350=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1100=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}770=~
+- **Builds Into:** [[Legendary Items#Black Cleaver|Black Cleaver]], [[Legendary Items#Experimental Hexplate|Experimental Hexplate]], [[Legendary Items#Stridebreaker|Stridebreaker]], [[Legendary Items#Trinity Force|Trinity Force]]
+- **Menu:** [[Fighter]], [[Tank]]
 # Quicksilver Sash ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Quicksilver_Sash_item.png/40px-Quicksilver_Sash_item.png?b37e2)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +30 [[Magic Resistance]]
+- **Passive - UNIQUE: ~={yellow}QUICKSILVER=~:** Removes all [[Crowd Control]] debuffs (except [[Airborne]]) from your champion (90 second cooldown).
+- **Recipe:** [[Basic Items#Null-Magic Mantle ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Null-Magic_Mantle_item.png/20px-Null-Magic_Mantle_item.png?883ac)|Null-Magic Mantle]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}900=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1300=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}910=~
+- **Limitations:** Max 1 ~={yellow}QUICKSILVER=~ item
+- **Builds Into:** [[Legendary Items#Mercurial Scimitar|Mercurial Scimitar]]
+- **Menu:** [[Fighter]], [[Marksman]], [[Assassin]]
 # Rectrix ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Rectrix_item.png/40px-Rectrix_item.png?bb085)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15 [[Attack Damage]], +4% [[Movement Speed]]
+- **Recipe:** [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991~={gold})425=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}775=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}542.5=~
+- **Builds Into:** [[Legendary Items#Kraken Slayer|Kraken Slayer]], [[Legendary Items#Lifeline|Lifeline]], [[Legendary Items#Statikk Shiv|Statikk Shiv]], [[Legendary Items#Youmuu's Ghostblade|Youmuu's Ghostblade]]
+- **Menu:** [[Fighter]], [[Assassin]]
 # Recurve Bow ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Recurve_Bow_item.png/40px-Recurve_Bow_item.png?904d7)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15% [[Attack Speed]]
+- **Passive - ~={yellow}STING=~:** Basic attacks deal ~={orange}15 **bonus** physical damage=~ [[on-hit]].
+- **Recipe:** [[Basic Items#Dagger ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Dagger_item.png/20px-Dagger_item.png?660f1)|Dagger]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}450=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}700=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}490=~
+- **Builds Into:** [[Legendary Items#Blade of the Ruined King|Blade of the Ruined King]], [[Legendary Items#Guinsoo's Rageblade|Guinsoo's Rageblade]], [[Legendary Items#Kraken Slayer|Kraken Slayer]], [[Legendary Items#Nashor's Tooth|Nashor's Tooth]], [[Legendary Items#Terminus|Terminus]], [[Legendary Items#Wit's End|Wit's End]]
+- **Menu:** [[Fighter]], [[Marksman]]
 # Runic Compass ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Runic_Compass_item.png/40px-Runic_Compass_item.png?17900)
 - **Effects:** 10 [[]]
 - **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
 - **Builds Into:**
 	- Placeholder
 # Scout's Slingshot ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Scout%27s_Slingshot_item.png/40px-Scout%27s_Slingshot_item.png?47453)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +20% [[Attack Speed]]
+- **Passive - UNIQUE: ~={yellow}BULLSEYE=~:** Damaging an enemy champion deals ~={blue}40 **bonus** magic damage=~ (40 second cooldown, reduced by 1 second [[on-attack]])
+- **Recipe:** [[Basic Items#Dagger ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Dagger_item.png/20px-Dagger_item.png?660f1)|Dagger]] + [[Basic Items#Dagger ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Dagger_item.png/20px-Dagger_item.png?660f1)|Dagger]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}100=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}600=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}420=~
+- **Builds Into:** [[Legendary Items#Fiendhunter Bolts|Fiendhunter Bolts]], [[Legendary Items#Rapid Firecannon|Rapid Firecannon]], [[Legendary Items#Runaan's Hurricane|Runaan's Hurricane]], [[Legendary Items#Statikk Shiv|Statikk Shiv]], [[Legendary Items#Stormrazor|Stormrazor]], [[Legendary Items#Yun Tal Wildarrows|Yun Tal Wildarrows]]
+- **Menu:** [[Marksman]]
 # Seeker's Armguard ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Seeker%27s_Armguard_item.png/40px-Seeker%27s_Armguard_item.png?703bc)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +40 [[Ability Power]], +25 [[Armor]]
+- **Active - UNIQUE: ~={yellow}TIME STOP=~:** Put yourself in [[stasis]] for 2.5 seconds, rendering you [[untargetable]] and [[invulnerable]] for the duration but also unable to move, declare [[basic attacks]], cast [[abilities]], use [[summoner spells]], or [[activate items]].
+- **Recipe:** [[Basic Items#Amplifying Tome ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Amplifying_Tome_item.png/20px-Amplifying_Tome_item.png?8541d)|Amplifying Tome]] + [[Basic Items#Cloth Armor ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloth_Armor_item.png/20px-Cloth_Armor_item.png?dcaab)|Cloth Armor]] + [[Basic Items#Amplifying Tome ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Amplifying_Tome_item.png/20px-Amplifying_Tome_item.png?8541d)|Amplifying Tome]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}500=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1600=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}640=~
+- **Builds Into:** [[Legendary Items#Zhonya's Hourglass|Zhonya's Hourglass]]
+- **Menu:** [[Mage]]
 # Serrated Dirk ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Serrated_Dirk_item.png/40px-Serrated_Dirk_item.png?36fd0)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +20 [[Attack Damage]], +10 [[Lethality]]
+- **Recipe:** [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}300=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1000=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}700=~
+- **Builds Into:** [[Legendary Items#Bastionbreaker|Bastionbreaker]], [[Legendary Items#Edge of Night|Edge of Night]], [[Legendary Items#Hubris|Hubris]], [[Legendary Items#Opportunity|Opportunity]], [[Legendary Items#Serpent's Fang|Serpent's Fang]], [[Legendary Items#Spectral Cutlass|Spectral Cutlass]], [[Legendary Items#The Collector|The Collector]], [[Legendary Items#Umbral Glaive|Umbral Glaive]], [[Legendary Items#Youmuu's Ghostblade|Youmuu's Ghostblade]] 
+- **Menu:** [[Assassin]]
 # Shattered Armguard ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Shattered_Armguard_item.png/40px-Shattered_Armguard_item.png?b5770)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +40 [[Ability Power]], +25 [[Armor]]
+- **Recipe:** [[Basic Items#Amplifying Tome ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Amplifying_Tome_item.png/20px-Amplifying_Tome_item.png?8541d)|Amplifying Tome]] + [[Basic Items#Cloth Armor ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloth_Armor_item.png/20px-Cloth_Armor_item.png?dcaab)|Cloth Armor]] + [[Basic Items#Amplifying Tome ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Amplifying_Tome_item.png/20px-Amplifying_Tome_item.png?8541d)|Amplifying Tome]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}500=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1600=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1120=~
+- **Limitations:** Max 1 ~={yellow}STASIS=~ item. [[#Seeker's Armguard ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Seeker%27s_Armguard_item.png/40px-Seeker%27s_Armguard_item.png?703bc)|Seeker's Armguard]] transforms into this item upon activation of its ~={yellow}TIME STOP=~ effect. After breaking the [[#Seeker's Armguard ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Seeker%27s_Armguard_item.png/40px-Seeker%27s_Armguard_item.png?703bc)|Seeker's Armguard]], the shopkeeper will only sell you the **Shattered Armguard** which has the same recipe and stats but does not include the active effect.
 # Sheen ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Sheen_item.png/40px-Sheen_item.png?2bece)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** 10 [[Ability Haste]]
+- **Passive - UNIQUE: ~={yellow}SPELLBLADE=~:** After using an [[ability]], your next basic attack within 10 seconds deals ~={orange}100% **base** AD **bonus** physical damage=~ [[on-hit]] (1.5 second cooldown, starts after using the empowered attack).
+- **Recipe:** [[Basic Items#Glowing Mote ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Glowing_Mote_item.png/20px-Glowing_Mote_item.png?b3701)|Glowing Mote]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}650=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}900=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}630=~
+- **Limitations:** Max 1 ~={yellow}SPELLBLADE=~ item
+- **Builds Into:** [[Legendary Items#Dusk and Dawn|Dusk and Dawn]], [[Legendary Items#Essence Reaver|Essence Reaver]], [[Legendary Items#Iceborn Gauntlet|Iceborn Gauntlet]], [[Legendary Items#Lich Bane|Lich Bane]], [[Legendary Items#Trinity Force|Trinity Force]]
+- **Menu:** [[Fighter]], [[Marksman]], [[Mage]]
 # Spectre's Cowl ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Spectre%27s_Cowl_item.png/40px-Spectre%27s_Cowl_item.png?79959)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +35 [[Magic Resistance]], +200 [[Health]], +100% [[Health Regeneration]]
+- **Recipe:**  [[Basic Items#Ruby Crystal ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Ruby_Crystal_item.png/20px-Ruby_Crystal_item.png?bf858)|Ruby Crystal]] + [[Basic Items#Null-Magic Mantle ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Null-Magic_Mantle_item.png/20px-Null-Magic_Mantle_item.png?883ac)|Null-Magic Mantle]] + [[Basic Items#Rejuvenation Bead ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Rejuvenation_Bead_item.png/20px-Rejuvenation_Bead_item.png?8103b)|Rejuvenation Bead]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}150=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1250=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}875=~
+- **Builds Into:** [[Legendary Items#Hollow Radiance|Hollow Radiance]], [[Legendary Items#Kaenic Rookern|Kaenic Rookern]], [[Legendary Items#Spirit Visage|Spirit Visage]]
+- **Menu:** [[Tank]]
 # Steel Sigil ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Steel_Sigil_item.png/40px-Steel_Sigil_item.png?e33d0)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15 [[Attack Damage]], +30 [[Armor]]
+- **Recipe:** [[Basic Items#Cloth Armor ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloth_Armor_item.png/20px-Cloth_Armor_item.png?dcaab)|Cloth Armor]] + [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + [[Basic Items#Cloth Armor ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloth_Armor_item.png/20px-Cloth_Armor_item.png?dcaab)|Cloth Armor]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}150=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1100=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}770=~
+- **Builds Into:** [[Legendary Items#Death's Dance|Death's Dance]], [[Legendary Items#Guardian Angel|Guardian Angel]]
+- **Menu:** [[Fighter]]
 # The Brutalizer ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/The_Brutalizer_item.png/40px-The_Brutalizer_item.png?b8724)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +25 [[Attack Damage]], +10 [[Ability Haste]], +5 [[Lethality]]
+- **Recipe:**  [[Basic Items#Glowing Mote ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Glowing_Mote_item.png/20px-Glowing_Mote_item.png?b3701)|Glowing Mote]] + [[Basic Items#Pickaxe ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Pickaxe_item.png/20px-Pickaxe_item.png?1d921)|Pickaxe]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}212=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1337=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}935.9=~
+- **Builds Into:** [[Legendary Items#Axiom Arc|Axiom Arc]], [[Legendary Items#Bastionbreaker|Bastionbreaker]], [[Legendary Items#Profane Hydra|Profane Hydra]], [[Legendary Items#Voltaic Cyclosword|Voltaic Cyclosword]]
+- **Menu:** [[Assassin]]
 # Tiamat ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Tiamat_item.png/40px-Tiamat_item.png?7f1e3)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +20 [[Attack Damage]]
+- **Active - UNIQUE: ~={yellow}CRESCENT=~:** Deal ~={orange}75% AD physical damage=~ to enemies within a 450 radius in front of you (10 second cooldown).
+- **Passive - UNIQUE: ~={yellow}CLEAVE=~:** Basic attacks [[on-hit]] deal ~={orange}(40% Melee AD / 20% Ranged AD) physical damage=~ to other enemies in a 350 radius centered around the target.
+- **Recipe:** [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}500=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1200=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}840=~
+- **Limitations:** Max 1 ~={yellow}HYDRA=~ item.
+- **Builds Into:** [[Legendary Items#Profane Hydra|Profane Hydra]], [[Legendary Items#Ravenous Hydra|Ravous Hydra]], [[Legendary Items#Stridebreaker|Stridebreaker]], [[Legendary Items#Titanic Hydra|Titanic Hydra]]
+- **Menu:** [[Fighter]], [[Tank]]
 # Tunneler ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Tunneler_item.png/40px-Tunneler_item.png?6b875)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15 [[Attack Damage]], +250 [[Health]]
+- **Recipe:** [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + [[Basic Items#Ruby Crystal ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Ruby_Crystal_item.png/20px-Ruby_Crystal_item.png?bf858)|Ruby Crystal]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}400=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1150=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}805=~
+- **Builds Into:** [[Legendary Items#Edge of Night|Edge of Night]], [[Legendary Items#Experimental Hexplate|Experimental Hexplate]], [[Legendary Items#Hullbreaker|Hullbreaker]], [[Legendary Items#Overlord's Bloodmail|Overlord's Bloodmail]], [[Legendary Items#Spear of Shojin|Spear of Shojin]], [[Legendary Items#Sterak's Gage|Sterak's Gage]], [[Legendary Items#Sundered Sky|Sundered Sky]], [[Legendary Items#Titanic Hydra|Titanic Hydra]]
+- **Menu:** [[Fighter]]
 # Vampiric Scepter ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Vampiric_Scepter_item.png/40px-Vampiric_Scepter_item.png?4231c)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15 [[ATtack Damage]], +7% [[Life Steal]]
+- **Recipe:** [[Basic Items#Long Sword ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Long_Sword_item.png/20px-Long_Sword_item.png?8bb79)|Long Sword]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}550=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}900=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}630=~
+- **Builds Into:** [[Legendary Items#Blade of the Ruined King|Blade of the Ruined King]], [[Legendary Items#Bloodthirster|Bloodthirster]], [[Legendary Items#Hextech Gunblade|Hextech Gunblade]], [[Legendary Items#Mercurial Scimitar|Mercurial Scimitar]], [[Legendary Items#Ravenous Hydra|Ravenous Hydra]]
+- **Menu:** [[Fighter]], [[Marksman]], [[Assassin]]
 # Verdant Barrier ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Verdant_Barrier_item.png/40px-Verdant_Barrier_item.png?5a308)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +40 [[Ability Power]], +25 [[Magic Resistance]]
+- **Passive - UNIQE: ~={yellow}ANNUL=~:** Grants a [[spell shield]] that blocks the next hostile ability (60 second cooldown, timer restarts upon taking damage from champions).
+- **Recipe:** [[Basic Items#Amplifying Tome ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Amplifying_Tome_item.png/20px-Amplifying_Tome_item.png?8541d)|Amplifying Tome]] + [[Basic Items#Null-Magic Mantle ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Null-Magic_Mantle_item.png/20px-Null-Magic_Mantle_item.png?883ac)|Null-Magic Mantle]] + [[Basic Items#Amplifying Tome ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Amplifying_Tome_item.png/20px-Amplifying_Tome_item.png?8541d)|Amplifying Tome]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}400=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1600=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1120=~
+- **Limitations:** Max 1 ~={yellow}ANNUL=~ item
+- **Builds Into:** [[Legendary Items#Banshee's Veil|Banshee's Veil]]
+- **Menu:** [[Mage]]
 # Warden's Mail ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Warden%27s_Mail_item.png/40px-Warden%27s_Mail_item.png?2ac93)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +40 [[Armor]]
+- **Passive - UNIQUE: ~={yellow}ROCK SOLID=~:** Every first incoming instance of post-mitigation [[basic damage]] per [[cast instance]] is [[reduced]] by 15, with a **maximum** of 20% reduction each.
+- **Recipe:** [[Basic Items#Cloth Armor ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloth_Armor_item.png/20px-Cloth_Armor_item.png?dcaab)|Cloth Armor]] + [[Basic Items#Cloth Armor ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloth_Armor_item.png/20px-Cloth_Armor_item.png?dcaab)|Cloth Armor]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}400=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1000=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}700=~
+- **Builds Into:** [[Legendary Items#Frozen Heart|Frozen Heart]], [[Legendary Items#Randuin's Omen|Randiun's Omen]]
+- **Menu:** [[Tank]]
 # Winged Moonplate ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Winged_Moonplate_item.png/40px-Winged_Moonplate_item.png?6c73f)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +200 [[Health]], +4% [[Movement Speed]]
+- **Recipe:** [[Basic Items#Ruby Crystal ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Ruby_Crystal_item.png/20px-Ruby_Crystal_item.png?bf858)|Ruby Crystal]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}400=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}800=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}560=~
+- **Builds Into:** [[Legendary Items#Dead Man's Plate|Dead Man's Plate]], [[Legendary Items#Force of Nature|Force of Nature]], [[Legendary Items#Hullbreaker|Hullbreaker]], [[Legendary Items#Trailblazer|Trailblazer]]
+- **Menu:** [[Tank]]
 # Zeal ![30](https://wiki.leagueoflegends.com/en-us/images/thumb/Zeal_item.png/40px-Zeal_item.png?c9af7)
-- **Effects:** 10 [[]]
-- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)
-- **Builds Into:**
-	- Placeholder
+- **Effects:** +15% [[Attack Speed]], +15% [[Critical Strike Chance]], +4% [[Movement Speed]]
+- **Recipe:** [[Basic Items#Cloak of Agility ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Cloak_of_Agility_item.png/20px-Cloak_of_Agility_item.png?05126)|Cloak of Agility]] + [[Basic Items#Dagger ![30](https //wiki.leagueoflegends.com/en-us/images/thumb/Dagger_item.png/20px-Dagger_item.png?660f1)|Dagger]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}350=~
+- **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}1200=~
+- **Sell:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}840=~
+- **Builds Into:** [[Legendary Items#Fiendhunter Bolts|Fiendhunter Bolts]], [[Legendary Items#Navori Flickerblade|Navori Flickerblade]], [[Legendary Items#Phantom Dancer|Phantom Dancer]], [[Legendary Items#Rapid Firecannon|Rapid Firecannon]], [[Legendary Items#Runaan's Hurricane|Runaan's Hurricane]]
+- **Menu:** [[Marksman]]
