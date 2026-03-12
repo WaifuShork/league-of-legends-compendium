@@ -1,4 +1,4 @@
-# Aether Wisp ![46](https://wiki.leagueoflegends.com/en-us/images/Aether_Wisp_item.png?6cebd)
+# Aether Wisp ![30](https://wiki.leagueoflegends.com/en-us/images/Aether_Wisp_item.png?6cebd)
 - **Effects:** +30 [[Ability Power]], +4% [[Movement Speed]]
 - **Cost:** ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}900=~
 - **Recipe:** [[Basic Items#Amplifying Tome|Amplifying Tome]] + ![15](https://wiki.leagueoflegends.com/en-us/images/thumb/Gold_colored_icon.png/36px-Gold_colored_icon.png?39991)~={gold}500=~
