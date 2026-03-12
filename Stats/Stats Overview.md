@@ -1,0 +1,57 @@
+# Defensive
+- **[[Health]] \[HP]:** A champion [[dies]] when their health is reduced to zero. Some abilities and effects may scale off of your own, on your ally's, or on a target enemy's: current, bonus, missing, or maximum health.
+- **[[Health Regeneration]] \[HP5]:** The amount of health a champion passively restores per 5 seconds.
+- **[[Heal & Shield Power]] \[H&SP]:** Increases the strength of certain [[healing]] and all [[shielding]] effects on yourself or allies. _See page for related attributes, mechanics, and exceptions_.
+- **[[Armor]] \[AR]:** Reduces (mitigates) the amount of physical damage taken, thus increasing a champion's effective health against physical damage.
+- **[[Magic Resistance]] \[MR]:** Reduces (mitigates) the amount of magic damage taken, thus increasing a champion's effective health against magic damage.
+- **[[Tenacity]]:** Reduces the **duration** of most hostile [[crowd control effects/disables]] by a percentage. Stacking multiple sources of tenacity has diminishing returns. Disables cannot be reduced to under 0.3 seconds.
+-  **[[Slow Resist]] \[SR]:** Reduces the **strength** of incoming hostile [[slows]] (movement speed reductions). The reduction is a percentage of the slows strength.
+
+# Offensive
+- **[[Attack Speed]] \[AS]:** The number of [[basic attacks]] your champion is allowed to perform per second. _See page for other relevant attributes._
+	- **Primary Growth Formula** 
+		- Statistic = base + bonus + g × (n - 1) × (0.7025 + 0.0175 × (n - 1))
+			- **Where**
+				- **base:** initial statistic value
+				- **bonus:** bonus statistic from any source (runes, items, buffs, etc)
+				- **g:** growth statistic
+				- **n:** current level
+				- **(n - 1):** total number of level ups
+	- **Attack Speed Growth** 
+		- Total Attack Speed = ASBase + \[ASBonus + g × (n - 1) × (0.7025 + 0.0175 × (n - 1))] × ASRatio
+			- **Where**
+				- **ASBase:** base attack speed
+				- **ASRatio:** attack speed ratio
+				- **g:** bonus attack speed growth, gained explicitly <u>from leveling up</u>
+				- **ASBonus:** sum of any percent bonus attack speed gained explicitly from any source <u>except leveling up</u>
+				- **n:** current level
+				- **(n - 1):** total number of level ups
+	- **Growth By Level**
+		- Stat Increase = g × (0.65 + 0.035 × n)
+		- **Where**
+			- **g:** growth statistic
+			- **n:** current level ≥ 2
+- **[[Attack Damage]] \[AD]:** **Unmodified** basic attacks deal exactly this amount of damage.
+- **[[Ability Power]] \[AP]:** To be specified.
+- **[[Critical Strike Chance]] \[CSC/Crit%]:** Denotes the chance that a basic attack will critically strike. Certain abilities can also critically strike for modified damage.
+- **[[Critical Strike Damage]] \[CSD]:** Denotes the damage dealt when a basic attack critically strikes. _Abilities that can critically strike usually also benefit from critical strike damage._
+- **[[Armor Penetration]]:** When applying ~={orange}physical damage=~ to an enemy, ignores part of their [[Armor]] in the damage calculations. Armor penetration can be either flat _(lethality)_ or percentage-based. The target's armor is unchanged.
+-  **[[Magic Penetration]]:** When applying ~={blue}magic damage=~ to an enemy, ignores part of their [[Magic Resistance]] in the damage calculations. Magic penetration can be either flat or percentage-based. The target's magic resistance is unchanged.
+- **[[Life Steal]]:** How much ~={green}health=~ a champion restores, as a percentage of the <abbr title="Damage calculated after resistances and other modifiers.">post-mitigation</abbr> damage dealt by basic attacks and [[on-hit effects]]. 
+-  **[[Physical Vamp]]:** How much ~={green}health=~ a champion restores, as a percentage of all ~={orange}physical damage=~ dealt. Physical Vamp is only 33% as effective when dealing [[area damage]] or [[pet damage]].
+- **[[Omnivamp]]:** How much ~={green}health=~ a champion restores, as a percentage of all damage dealt. Omnivamp is only 20% as effective against non-champions.
+
+# Utility
+- ## Haste/Cooldown Reduction \[CDR]
+	- **[[Ability Haste]] \[AH]:** Reduces the [[cooldown]] of abilities by a percentage. Stacking ability haste itself has diminishing returns, but not in terms of cooldowns and casting. _Capped at 500, which is equivalent to 83.3% cooldown reduction._
+	- **[[Item Hast]] \[IH]:** Reduces the cooldown of [[items]] with cooldowns, including [[passives]] and [[actives]] ([[trinkets]] count as active items).
+	- **[[Ultimate Haste]] \[UH]:** Reduces the cooldown of ultimate abilities. It stacks additively with ability haste. The resulting additive **total haste** is capped at **500**, which is equivalent to 83.3% cooldown reduction.
+- ## Resource: 
+	- **[[Mana]] \[MP]:** ~={blue}Mana=~ is a longer-term resource that replenishes fairly slowly, but can be improved into great supply. Some effects may scale off a portion or all of your mana.
+	- **[[Mana Regeneration]] \[MP5]:** The amount of ~={blue}mana=~ a champion passively restores per 5 seconds.
+	- **[[Energy]]:** ~={yellow}Energy=~ is a shorter-term resource that replenishes fairly quickly, but comes in limited supply compared to mana. All champions who use energy also have at least one means by which they are able to restore a flat amount of energy.
+	- **[[Energy Regeneration]]:** The amount of ~={yellow}energy=~ a champion passively restores. Energy regeneration rate is a base of 50 energy per 5 seconds for all energy users, but it can be increased by a few effects.
+- **[[Attack Range]]:** The maximum distance that a basic attack can be initiated from. Attack range is measured in game-distance units and refers to the distance from the source's edge to the target's edge.
+	- When referring to [[range]] in general — abilities, item actives, and summoner spells' maximum distance and/or dimensions (where applicable) can also be included. Ability ranges have different targeting conditions.
+- **[[Movement Speed]] \[MS]:** How quickly a champion moves across the map, measure in game-distance units per second.
+- **[[Gold Generation]]:** The rate at which a champion passively generates gold, measured per 10 seconds.
